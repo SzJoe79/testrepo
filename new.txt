@@ -1,3 +1,5 @@
-bob 
+Bob 
 Jim
 Mary
+Joe
+Katy
